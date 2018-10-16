@@ -19,3 +19,9 @@ print(matriz1.dtype,matriz1[1])
 #Para crear matriz de Ceros
 #La cual recibe una tupla con la dimension de las filas y de las columnas
 ceros=np.zeros((3,4))
+
+
+#Crear matriz de unos
+unos=np.ones((3,4))
+
+#Broadcasting
