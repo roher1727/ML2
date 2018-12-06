@@ -1,7 +1,7 @@
 import gym
 
 # Entorno Pac Man
-env = gym.make('MsPacman-v0')
+env = gym.make('CartPole-v0')
 
 
 for i_episode in range(20):
